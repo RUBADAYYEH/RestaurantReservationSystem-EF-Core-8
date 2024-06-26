@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\RestaurantReservation.Db\obj\Debug\net8.0\RestaurantReservationDb.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\RestaurantReservation.Db\obj\Debug\net8.0\RestaurantReservationDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\RestaurantReservation.Db\obj\Debug\net8.0\RestaurantReservationDb.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\RestaurantReservation.Db\obj\Debug\net8.0\RestaurantReservationDb.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\RestaurantReservation.Db\obj\Debug\net8.0\RestaurantReservationDb.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\RestaurantReservation.Db\bin\Debug\net8.0\RestaurantReservationDb.deps.json
+C:\Users\Lenovo\source\repos\RestaurantReservation.Db\bin\Debug\net8.0\RestaurantReservationDb.runtimeconfig.json
+C:\Users\Lenovo\source\repos\RestaurantReservation.Db\bin\Debug\net8.0\RestaurantReservationDb.dll
+C:\Users\Lenovo\source\repos\RestaurantReservation.Db\bin\Debug\net8.0\RestaurantReservationDb.pdb
+C:\Users\Lenovo\source\repos\RestaurantReservation.Db\obj\Debug\net8.0\RestaurantReservationDb.dll
+C:\Users\Lenovo\source\repos\RestaurantReservation.Db\obj\Debug\net8.0\refint\RestaurantReservationDb.dll
+C:\Users\Lenovo\source\repos\RestaurantReservation.Db\obj\Debug\net8.0\RestaurantReservationDb.pdb
+C:\Users\Lenovo\source\repos\RestaurantReservation.Db\obj\Debug\net8.0\RestaurantReservationDb.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\RestaurantReservation.Db\obj\Debug\net8.0\ref\RestaurantReservationDb.dll
+C:\Users\Lenovo\source\repos\RestaurantReservation.Db\obj\Debug\net8.0\RestaurantReservationDb.sourcelink.json
